@@ -7,11 +7,16 @@ Here are two best examples of code, they are to be found in our CODE REPOSITORY:
 
 plot_oahu.r
 
-  package sf: https://r-spatial.github.io/sf/
+    package sf: https://r-spatial.github.io/sf/
 
   make_leaflet_map.r
   
     package leaflet:  https://rstudio.github.io/leaflet/
+    
+    
+#-----  best example yet:
+
+WHS_EXAMPLE.jpg
 
 #-----  KML DATA ESSENTIAL to our project:
 #-----  kml sources
