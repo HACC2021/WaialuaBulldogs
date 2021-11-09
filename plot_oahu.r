@@ -1,5 +1,4 @@
 library(sf)
-library(rnaturalearth)
 
 fname_parks = 'C:/r_stuff/bd_kml_good.kml'
 fname_trails = 'C:/r_stuff/trails_kml.kml'
