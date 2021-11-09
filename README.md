@@ -1,4 +1,11 @@
 # WaialuaBulldogs
+UPDATED README FILE 2021-11-09
+
+Regrets on the mess in our code repository, but i have been posting anything that was an advancement in our capabilities.  
+currently our best R script for rendering a map of oahu with package sf: https://r-spatial.github.io/sf/
+
+
+
 
 useful links
 we got kml from here
