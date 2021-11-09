@@ -3,12 +3,14 @@ UPDATED README FILE 2021-11-09
 
 Regrets on the mess in our code repository, but i have been posting anything that was an advancement in our capabilities.  
 
-Here are two best examples of code:
+Here are two best examples of code, they are to be found in our CODE REPOSITORY:
 
 plot_oahu.r
+
   package sf: https://r-spatial.github.io/sf/
 
   make_leaflet_map.r
+  
     package leaflet:  https://rstudio.github.io/leaflet/
 
 #-----  KML DATA ESSENTIAL to our project:
