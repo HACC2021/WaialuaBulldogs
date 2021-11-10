@@ -3,6 +3,14 @@ UPDATED README FILE 2021-11-09
 
 Regrets on the mess in our code repository, but i have been posting anything that was an advancement in our capabilities.  
 
+
+
+
+we successfully exported all of these files from QGIS to kml files which enabled us to leverage all of our work in R
+kml files are posted in our repository
+
+use this to read shp files and others https://qgis.org/en/site/index.html
+
 Here are two best examples of code, they are to be found in our CODE REPOSITORY:
 
 plot_oahu.r
