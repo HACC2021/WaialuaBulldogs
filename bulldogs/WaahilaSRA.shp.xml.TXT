@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en">
+<Esri>
+<CreaDate>20201207</CreaDate>
+<CreaTime>20574700</CreaTime>
+<SyncOnce>FALSE</SyncOnce>
+<DataProperties>
+<itemProps>
+<itemName Sync="TRUE">Waahila SRA</itemName>
+<nativeExtBox>
+<westBL Sync="TRUE">-1414327.447500</westBL>
+<eastBL Sync="TRUE">936090.322100</eastBL>
+<southBL Sync="TRUE">2100495.819100</southBL>
+<northBL Sync="TRUE">3298445.600000</northBL>
+<exTypeCode Sync="TRUE">1</exTypeCode>
+</nativeExtBox>
+<imsContentType Sync="TRUE">002</imsContentType>
+<itemSize Sync="TRUE">0.000</itemSize>
+<itemLocation>
+<linkage Sync="TRUE">file://\\SPO-NEWSSE-L\C$\Users\cnewsse\Desktop\GIS Data\Waahila SRA.shp</linkage>
+<protocol Sync="TRUE">Local Area Network</protocol>
+</itemLocation>
+</itemProps>
+<coordRef>
+<type Sync="TRUE">Projected</type>
+<geogcsn Sync="TRUE">GCS_North_American_1983_HARN</geogcsn>
+<csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits>
+<projcsn Sync="TRUE">NAD_1983_HARN_UTM_Zone_4N</projcsn>
+<peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_HARN_UTM_Zone_4N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983_HARN&amp;quot;,DATUM[&amp;quot;D_North_American_1983_HARN&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-159.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,3750]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;102202&lt;/WKID&gt;&lt;LatestWKID&gt;3750&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml>
+</coordRef>
+<lineage>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20210616" Time="083307">DeleteField "LWCF 6F Areas" Shape_Leng</Process>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20210616" Time="083311">DeleteField "LWCF 6F Areas" Shape_Le_1</Process>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20210616" Time="083317">DeleteField "LWCF 6F Areas" AREA</Process>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20210616" Time="083713">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=C:\Users\cnewsse\Desktop\GIS Data&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;Shapefile&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;State_Park_Boundaries.shp&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;ProjectNo&lt;/field_name&gt;&lt;field_type&gt;TEXT&lt;/field_type&gt;&lt;field_length&gt;255&lt;/field_length&gt;&lt;field_is_nullable&gt;False&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;Category&lt;/field_name&gt;&lt;field_type&gt;TEXT&lt;/field_type&gt;&lt;field_length&gt;255&lt;/field_length&gt;&lt;field_is_nullable&gt;False&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;Year_Comp&lt;/field_name&gt;&lt;field_type&gt;LONG&lt;/field_type&gt;&lt;field_is_nullable&gt;False&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\Toolboxes\Data Management Tools.tbx\UpdateSchema" Date="20210616" Time="084331">UpdateSchema "CIMDATA=&lt;CIMStandardDataConnection xsi:type='typens:CIMStandardDataConnection' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/2.8.0'&gt;&lt;WorkspaceConnectionString&gt;DATABASE=C:\Users\cnewsse\Desktop\GIS Data&lt;/WorkspaceConnectionString&gt;&lt;WorkspaceFactory&gt;Shapefile&lt;/WorkspaceFactory&gt;&lt;Dataset&gt;State_Park_Boundaries.shp&lt;/Dataset&gt;&lt;DatasetType&gt;esriDTFeatureClass&lt;/DatasetType&gt;&lt;/CIMStandardDataConnection&gt;" &lt;operationSequence&gt;&lt;workflow&gt;&lt;DeleteField&gt;&lt;field_name&gt;Year_Comp&lt;/field_name&gt;&lt;/DeleteField&gt;&lt;/workflow&gt;&lt;workflow&gt;&lt;AddField&gt;&lt;field_name&gt;Year_Comp&lt;/field_name&gt;&lt;field_type&gt;TEXT&lt;/field_type&gt;&lt;field_length&gt;255&lt;/field_length&gt;&lt;field_is_nullable&gt;False&lt;/field_is_nullable&gt;&lt;field_is_required&gt;False&lt;/field_is_required&gt;&lt;/AddField&gt;&lt;/workflow&gt;&lt;/operationSequence&gt;</Process>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Data Management Tools.tbx\CalculateGeometryAttributes" Date="20210628" Time="121908">CalculateGeometryAttributes State_Park_Boundaries "GIS_Acre AREA" # Acres PROJCS["NAD_1983_HARN_UTM_Zone_4N",GEOGCS["GCS_North_American_1983_HARN",DATUM["D_North_American_1983_HARN",SPHEROID["GRS_1980",6378137.0,298.257222101]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-159.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]] "Same as input"</Process>
+<Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20211108" Time="152434">FeatureClassToFeatureClass "Waahila SRA" "C:\Users\cnewsse\Desktop\GIS Data" "Waahila SRA.shp" # "OBJECTID_1 "OBJECTID_1" true true false 19 Double 0 0,First,#,Waahila SRA,OBJECTID_1,-1,-1;TYPE "TYPE" true true false 5 Text 0 0,First,#,Waahila SRA,TYPE,0,5;NAME "NAME" true true false 50 Text 0 0,First,#,Waahila SRA,NAME,0,50;MANAGEDBY "MANAGEDBY" true true false 50 Text 0 0,First,#,Waahila SRA,MANAGEDBY,0,50;Island "Island" true true false 10 Text 0 0,First,#,Waahila SRA,Island,0,10;GIS_Acre "GIS_Acre" true true false 19 Double 0 0,First,#,Waahila SRA,GIS_Acre,-1,-1;Type_Defin "Type_Defin" true true false 50 Text 0 0,First,#,Waahila SRA,Type_Defin,0,50;ProjectNo "ProjectNo" true true false 254 Text 0 0,First,#,Waahila SRA,ProjectNo,0,254;Category "Category" true true false 254 Text 0 0,First,#,Waahila SRA,Category,0,254;Year_Comp "Year_Comp" true true false 254 Text 0 0,First,#,Waahila SRA,Year_Comp,0,254" #</Process>
+</lineage>
+</DataProperties>
+<ArcGISFormat>1.0</ArcGISFormat>
+<ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle>
+<SyncDate>20211108</SyncDate>
+<SyncTime>15243400</SyncTime>
+<ModDate>20211108</ModDate>
+<ModTime>15243400</ModTime>
+<ArcGISProfile>FGDC</ArcGISProfile>
+<scaleRange>
+<minScale>50000</minScale>
+<maxScale>5000</maxScale>
+</scaleRange>
+</Esri>
+<Binary>
+<Thumbnail>
+<Data EsriPropertyType="PictureX">/9j/4AAQSkZJRgABAQEAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a   
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iii
+gAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAoGe9FFABRR
+RQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAU
+UUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRR
+RQAUUUUAFFFFAEc8yW1vJPISI40LsQM8AZNV9N1GLU7Zp4Y5o1VyhWZCjZwD0/Grg4HXNFABRVC+
+TUfPiks5IjGpBaJuC3OD83pgnt1A9atTXCQBDIsnzsF+RC2CfXA4HvQBLRTUdZEDowZTyCDkGnUA
+FFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVHLBHM0TOuWibeh9D
+gj+tSUUAZyabDZ3f20TzokcXliEN+7VBz93uRk8+9XYJ4rmBJoZFkicblZTkEVQ8QYGizu1zLbpG
+A7PF97APT/OPqK5zw7FqMOrz3ECNPbzuUeSWRsFQeGBIOe4HrnoBzSbs7AdtRRRTAKKKKACiiigA
+ooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigBGVXUq6hlPUEZFCIsaBEUKo4AHalo
+oAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiig
+D//Z</Data>\n</Thumbnail>\n</Binary>
+<mdChar>
+<CharSetCd value="004"/>
+</mdChar>
+<mdContact>
+<rpIndName>Dwight Matsuwaki</rpIndName>
+<rpOrgName>Division of Forestry and Wildlife, Department of Land and Natural Resources</rpOrgName>
+<rpPosName>GIS &amp; Geodatabase Coordinator</rpPosName>
+<role>
+<RoleCd value="007"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="postal">
+<delPoint>1151 Punchbowl Street., Rm 325</delPoint>
+<city>Honolulu</city>
+<adminArea>HI</adminArea>
+<postCode>96813</postCode>
+<eMailAdd>Dwight.H.Matsuwaki@Hawaii.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum>808-587-4173</voiceNum>
+<faxNum>808-587-0160</faxNum>
+</cntPhone>
+<cntOnlineRes>
+<linkage>http://planning.hawaii.gov/gis/</linkage>
+</cntOnlineRes>
+</rpCntInfo>
+<displayName>Dwight Matsuwaki</displayName>
+</mdContact>
+<distInfo>
+<distFormat>
+<formatName Sync="TRUE">Shapefile</formatName>
+</distFormat>
+<distTranOps>
+<transSize Sync="TRUE">0.000</transSize>
+</distTranOps>
+</distInfo>
+<dataIdInfo>
+<idCitation>
+<date>
+<pubDate>2015-07-28T00:00:00</pubDate>
+<reviseDate>2015-07-28T00:00:00</reviseDate>
+</date>
+<citRespParty>
+<rpIndName>Dwight Matsuwaki</rpIndName>
+<rpOrgName>Division of Forestry and Wildlife, Department of Land and Natural Resources</rpOrgName>
+<rpPosName>GIS &amp; Geodatabase Coordinator</rpPosName>
+<role>
+<RoleCd value="007"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="postal">
+<delPoint>1151 Punchbowl Street., Rm 325</delPoint>
+<city>Honolulu</city>
+<adminArea>HI</adminArea>
+<postCode>96813</postCode>
+<eMailAdd>Dwight.H.Matsuwaki@Hawaii.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum>808-587-4173</voiceNum>
+<faxNum>808-587-0160</faxNum>
+</cntPhone>
+<cntOnlineRes>
+<linkage>http://planning.hawaii.gov/gis/</linkage>
+</cntOnlineRes>
+</rpCntInfo>
+</citRespParty>
+<citRespParty>
+<rpOrgName>Division of Forestry and Wildlife, DLNR</rpOrgName>
+<role>
+<RoleCd value="006"/>
+</role>
+</citRespParty>
+<resTitle Sync="TRUE">Waahila SRA</resTitle>
+<presForm>
+<PresFormCd value="005" Sync="TRUE"/>
+</presForm>
+</idCitation>
+<dataExt>
+<exDesc>Main Hawaiian Islands</exDesc>
+<tempEle>
+<TempExtent>
+<exTemp>
+<TM_Period>
+<tmBegin>2014-11-01T00:00:00</tmBegin>
+<tmEnd>2015-07-28T00:00:00</tmEnd>
+</TM_Period>
+</exTemp>
+</TempExtent>
+</tempEle>
+</dataExt>
+<idAbs>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;Various reserves, preserves, parks, etc. as of September 2016. Reserve boundaries are generally based off of the County's tax map key (TMK) layer. Since boundaries from other agencies are derived from different source scales, these boundaries are modified to match the TMK layer with exceptions.  &lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Note: Kaumahina State Recreation Area on Maui was digitized from USGS 7.5 minute topographic map.&lt;/SPAN&gt;&lt;/P&gt;&lt;P&gt;&lt;SPAN&gt;Update to Honolulu FR and Mauna Kea FR 01/20/17; Addition of Kure WS10/24/16. Update to Island of Oahu Waiahole FR and Kaneohe FR 9/30/16; Molokai FR and Kipahulu FR 7/7/16; Island of Hawaii Kohala FR, Hamakua FR, Mauna Kea FR, Honualua FR, Malama-Ki FR and Puu O Umi NAR 4/15/16; Forest Reserves (Kauai, Oahu, and Hawaii); Natural Area Reservess (Hawaii and Maui); National Wildlife Refuges (Statewide); National Parks (Hawaii and Maui); The Nature Conservancy (Hawaii and Maui). Additional updates to: Nanakuli F.R., Lualualei F.R., Honouliuli F.R. 2/18/16; Maui Motocross Track 2/8/16; Honuaula F.R., Kohala F.R. (Waimanu Sec.),Kaohe Mitigation &amp;amp; Puu Mali Mitigation1/28/16; Kahua Coop GMA 12/16/15; Waimanalo Forest Reserve 10/2/15; Kuia NAR 9/22 /15; removed Ookala Coop GMA 12/16/15. &lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</idAbs>
+<searchKeys>
+<keyword>Reserves</keyword>
+<keyword>Managed Lands</keyword>
+<keyword>State of Hawaii</keyword>
+</searchKeys>
+<dataChar>
+<CharSetCd value="004"/>
+</dataChar>
+<idPurp>Centralized location of managed lands protecting natural and cultural resources of the Main Hawaiian Islands.
+
+Note: In some cases, differences in the acreage calculated by the GIS and the acreage listed in county real property records may exist.  This can be especially evident in large parcels in remote areas, and is often a result of the difficulty in surveying the steep, overgrown terrain found in these natural areas.</idPurp>
+<idCredit>Compiled in 2002 by SOH, DLNR, DOFAW from various sources including the data provided by U.S. Fish and Wildllife Refuges, U.S. National Park Service, Division of State Parks, County parcel boundaries and The Nature Conservancy with input from State foresters and others familiar with the reserve boundaries.  The boundaries in this layer are not final; they are updated frequently. </idCredit>
+<idStatus>
+<ProgCd value="004"/>
+</idStatus>
+<resMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</resMaint>
+<idPoC>
+<rpIndName>Dwight Matsuwaki</rpIndName>
+<rpOrgName>Division of Forestry and Wildlife, Department of Land and Natural Resources</rpOrgName>
+<rpPosName>GIS &amp; Geodatabase Coordinator</rpPosName>
+<role>
+<RoleCd value="007"/>
+</role>
+<rpCntInfo>
+<cntAddress addressType="postal">
+<delPoint>1151 Punchbowl Street., Rm 325</delPoint>
+<city>Honolulu</city>
+<adminArea>HI</adminArea>
+<postCode>96813</postCode>
+<eMailAdd>Dwight.H.Matsuwaki@Hawaii.gov</eMailAdd>
+<country>US</country>
+</cntAddress>
+<cntPhone>
+<voiceNum>808-587-4173</voiceNum>
+<faxNum>808-587-0160</faxNum>
+</cntPhone>
+<cntOnlineRes>
+<linkage>http://planning.hawaii.gov/gis/</linkage>
+</cntOnlineRes>
+</rpCntInfo>
+<displayName>Dwight Matsuwaki</displayName>
+</idPoC>
+<envirDesc Sync="TRUE">Microsoft Windows 10 Version 10.0 (Build 19042) ; Esri ArcGIS 12.8.0.29751</envirDesc>
+<dataLang>
+<languageCode value="eng" Sync="TRUE"/>
+<countryCode value="USA" Sync="TRUE"/>
+</dataLang>
+<spatRpType>
+<SpatRepTypCd value="001" Sync="TRUE"/>
+</spatRpType>
+<dataExt>
+<geoEle>
+<GeoBndBox esriExtentType="search">
+<exTypeCode Sync="TRUE">1</exTypeCode>
+<westBL Sync="TRUE">-178.339349</westBL>
+<eastBL Sync="TRUE">-154.492586</eastBL>
+<northBL Sync="TRUE">29.816439</northBL>
+<southBL Sync="TRUE">18.137653</southBL>
+</GeoBndBox>
+</geoEle>
+</dataExt>
+<resConst>
+<Consts>
+<useLimit>&lt;DIV STYLE="text-align:Left;"&gt;&lt;DIV&gt;&lt;DIV&gt;&lt;P&gt;&lt;SPAN&gt;This dataset was compiled from various data sources and is updated frequently. No warranty is made that the GIS data or any subsequent update will be error free, and no waranty is made regarding the positional or thematic accuracy of the GIS data. The features are graphic representation of managed areas for planning purposes and do not represent or confer any legal rights, privileges, benefits, boundaries, or claims of any kind. DOFAW encourages GIS data users to verify the suitability of the data before use. Please report any discrepancies or errors to the point of contact.&lt;/SPAN&gt;&lt;/P&gt;&lt;/DIV&gt;&lt;/DIV&gt;&lt;/DIV&gt;</useLimit>
+</Consts>
+</resConst>
+</dataIdInfo>
+<mdMaint>
+<maintFreq>
+<MaintFreqCd value="009"/>
+</maintFreq>
+</mdMaint>
+<eainfo>
+<detailed Name="Waahila SRA">
+<enttyp>
+<enttypl Sync="TRUE">Waahila SRA</enttypl>
+<enttypt Sync="TRUE">Feature Class</enttypt>
+<enttypc Sync="TRUE">0</enttypc>
+<enttypd>Polygon Reserves</enttypd>
+<enttypds>DOFAW</enttypds>
+</enttyp>
+<attr>
+<attrlabl Sync="TRUE">FID</attrlabl>
+<attalias Sync="TRUE">FID</attalias>
+<attrtype Sync="TRUE">OID</attrtype>
+<attwidth Sync="TRUE">4</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Internal feature number.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Shape</attrlabl>
+<attalias Sync="TRUE">Shape</attalias>
+<attrtype Sync="TRUE">Geometry</attrtype>
+<attwidth Sync="TRUE">0</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef Sync="TRUE">Feature geometry.</attrdef>
+<attrdefs Sync="TRUE">Esri</attrdefs>
+<attrdomv>
+<udom Sync="TRUE">Coordinates defining the features.</udom>
+</attrdomv>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">OBJECTID_1</attrlabl>
+<attalias Sync="TRUE">OBJECTID_1</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">TYPE</attrlabl>
+<attalias Sync="TRUE">TYPE</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">5</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Type of Resreve; An attribute designated for internal use by DOFAW staff, and is included in this layer as a convenience to users.</attrdef>
+<attrdefs>DOFAW</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">NAME</attrlabl>
+<attalias Sync="TRUE">NAME</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Name of Reserve</attrdef>
+<attrdefs>DOFAW</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">MANAGEDBY</attrlabl>
+<attalias Sync="TRUE">MANAGEDBY</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Agency That Manages Reserve</attrdef>
+<attrdefs>DOFAW</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Island</attrlabl>
+<attalias Sync="TRUE">Island</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">10</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Island reserve is located on</attrdef>
+<attrdefs>DOFAW</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">GIS_Acre</attrlabl>
+<attalias Sync="TRUE">GIS_Acre</attalias>
+<attrtype Sync="TRUE">Double</attrtype>
+<attwidth Sync="TRUE">19</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+<attrdef>Area of the reserve in acres as calculated by the software.</attrdef>
+<attrdefs>DOFAW</attrdefs>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Type_Defin</attrlabl>
+<attalias Sync="TRUE">Type_Defin</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">50</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">ProjectNo</attrlabl>
+<attalias Sync="TRUE">ProjectNo</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Category</attrlabl>
+<attalias Sync="TRUE">Category</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+<attr>
+<attrlabl Sync="TRUE">Year_Comp</attrlabl>
+<attalias Sync="TRUE">Year_Comp</attalias>
+<attrtype Sync="TRUE">String</attrtype>
+<attwidth Sync="TRUE">254</attwidth>
+<atprecis Sync="TRUE">0</atprecis>
+<attscale Sync="TRUE">0</attscale>
+</attr>
+</detailed>
+</eainfo>
+<mdLang>
+<languageCode value="eng" Sync="TRUE"/>
+<countryCode value="USA" Sync="TRUE"/>
+</mdLang>
+<mdHrLv>
+<ScopeCd value="005" Sync="TRUE"/>
+</mdHrLv>
+<mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+<refSysInfo>
+<RefSystem>
+<refSysID>
+<identCode code="3750" Sync="TRUE"/>
+<idCodeSpace Sync="TRUE">EPSG</idCodeSpace>
+<idVersion Sync="TRUE">6.13(10.0.0)</idVersion>
+</refSysID>
+</RefSystem>
+</refSysInfo>
+<spatRepInfo>
+<VectSpatRep>
+<geometObjs Name="Waahila SRA">
+<geoObjTyp>
+<GeoObjTypCd value="002" Sync="TRUE">
+</GeoObjTypCd>
+</geoObjTyp>
+<geoObjCnt Sync="TRUE">0</geoObjCnt>
+</geometObjs>
+<topLvl>
+<TopoLevCd value="001" Sync="TRUE">
+</TopoLevCd>
+</topLvl>
+</VectSpatRep>
+</spatRepInfo>
+<spdoinfo>
+<ptvctinf>
+<esriterm Name="Waahila SRA">
+<efeatyp Sync="TRUE">Simple</efeatyp>
+<efeageom code="4" Sync="TRUE">
+</efeageom>
+<esritopo Sync="TRUE">FALSE</esritopo>
+<efeacnt Sync="TRUE">0</efeacnt>
+<spindex Sync="TRUE">TRUE</spindex>
+<linrefer Sync="TRUE">FALSE</linrefer>
+</esriterm>
+</ptvctinf>
+</spdoinfo>
+<mdDateSt Sync="TRUE">20211108</mdDateSt>
+</metadata>

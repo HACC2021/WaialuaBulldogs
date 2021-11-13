@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="waahilaTrail" id="waahilaTrail">
+	<SimpleField name="TRAIL_NUM" type="string"></SimpleField>
+	<SimpleField name="NAH" type="string"></SimpleField>
+	<SimpleField name="ISLAND" type="string"></SimpleField>
+	<SimpleField name="QUAD" type="string"></SimpleField>
+	<SimpleField name="DISTRICT" type="string"></SimpleField>
+	<SimpleField name="YRCREATED" type="string"></SimpleField>
+	<SimpleField name="LENGTH_MI" type="float"></SimpleField>
+	<SimpleField name="ELEV_RANGE" type="float"></SimpleField>
+	<SimpleField name="ST_ACCESS" type="string"></SimpleField>
+	<SimpleField name="START_PT" type="string"></SimpleField>
+	<SimpleField name="END_PT" type="string"></SimpleField>
+	<SimpleField name="STANDARD" type="string"></SimpleField>
+	<SimpleField name="CLIMATE" type="string"></SimpleField>
+	<SimpleField name="TSPT_TYPE" type="string"></SimpleField>
+	<SimpleField name="FEATURES" type="string"></SimpleField>
+	<SimpleField name="AMENITIES" type="string"></SimpleField>
+	<SimpleField name="USE_REST" type="string"></SimpleField>
+	<SimpleField name="HAZARDS" type="string"></SimpleField>
+	<SimpleField name="COMMENTS" type="string"></SimpleField>
+	<SimpleField name="Trailname" type="string"></SimpleField>
+	<SimpleField name="PublicShow" type="string"></SimpleField>
+	<SimpleField name="SHAPE_Leng" type="float"></SimpleField>
+</Schema>
+<Folder><name>waahilaTrail</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#waahilaTrail">
+		<SimpleData name="TRAIL_NUM">OA 13 040</SimpleData>
+		<SimpleData name="NAH">Y</SimpleData>
+		<SimpleData name="ISLAND">Oahu</SimpleData>
+		<SimpleData name="QUAD">13</SimpleData>
+		<SimpleData name="DISTRICT">Honolulu</SimpleData>
+		<SimpleData name="YRCREATED">Unknown</SimpleData>
+		<SimpleData name="LENGTH_MI">2.40000000000</SimpleData>
+		<SimpleData name="ELEV_RANGE">500</SimpleData>
+		<SimpleData name="ST_ACCESS">2-Wheel Drive</SimpleData>
+		<SimpleData name="START_PT">Waahila State Park</SimpleData>
+		<SimpleData name="END_PT">Kolowalu Trail</SimpleData>
+		<SimpleData name="STANDARD">Moderate</SimpleData>
+		<SimpleData name="CLIMATE">Mild</SimpleData>
+		<SimpleData name="TSPT_TYPE">Foot</SimpleData>
+		<SimpleData name="FEATURES">Hike, Nature Study</SimpleData>
+		<SimpleData name="AMENITIES">Parking, Toilets, Shelters</SimpleData>
+		<SimpleData name="USE_REST">Time</SimpleData>
+		<SimpleData name="HAZARDS">Cliffs, footing, Hunters, Narrow Trail</SimpleData>
+		<SimpleData name="COMMENTS">Open 7-6:45, 7-7:45 summer</SimpleData>
+		<SimpleData name="Trailname">Waahila Ridge Trail</SimpleData>
+		<SimpleData name="PublicShow">Yes</SimpleData>
+		<SimpleData name="SHAPE_Leng">2238.79777900000</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>-157.788149007704,21.3237659150899 -157.78824317435,21.3233347787179 -157.788255224034,21.3230412677241 -157.788232049084,21.3228107386114 -157.788234911521,21.3226969341665 -157.788282112529,21.3224669122268 -157.788326926514,21.3222928826731 -157.788475524118,21.3219253749306 -157.788487157229,21.3214475711324 -157.788502120485,21.3211513708814 -157.788559681432,21.320951235002 -157.788618071383,21.3206499272866 -157.788666754793,21.3203566800389 -157.789139605455,21.3195976327352 -157.789202949104,21.319397539083 -157.789367405306,21.3192117231719 -157.789369070866,21.3190084752446 -157.789661095706,21.3185498536354 -157.789689799813,21.3184588186855 -157.789907352863,21.3174404681791 -157.790093362504,21.3172123484367 -157.790225430207,21.3169784192432 -157.79032746251,21.3166449027798 -157.790805899552,21.3159075709956 -157.791198105978,21.3155752364964 -157.791434176739,21.3154730440796 -157.791875122058,21.3150751111819 -157.79202810121,21.3149949064626 -157.792248305853,21.3145926758626 -157.792397562164,21.3144961831537 -157.792617676915,21.3143405748166 -157.792851425418,21.3142862428932 -157.793350626554,21.3140730139866 -157.793621789079,21.3139231907714 -157.793745223661,21.3136828727797 -157.793937646047,21.3134945431036 -157.793979682559,21.3133051340579 -157.794319928205,21.3130772115001 -157.794459579413,21.3128577869432 -157.79452888275,21.3125168056325 -157.79449227457,21.3123954898979 -157.794502732014,21.3122952901921 -157.794401788392,21.3120244550917 -157.794413360173,21.3117878524799 -157.794355030057,21.3116112746424 -157.794449716553,21.3114674119245 -157.795000198029,21.3111118104702 -157.795067876999,21.3109695606559 -157.795251331952,21.3106980536707 -157.795117059562,21.3104947340217 -157.795004959286,21.3102915740045 -157.79505262476,21.310002832638 -157.795028585665,21.3097587477333 -157.795190147388,21.3094527553138 -157.795531214392,21.3091227523642 -157.795555058704,21.3087995125172 -157.795763572659,21.308646526581 -157.795761446896,21.3083158736901 -157.795944271252,21.3081211488246 -157.796150407186,21.3079049084256 -157.796217966631,21.3077771112863 -157.796517289592,21.3076003835788 -157.796870682814,21.3075315438392 -157.797007000111,21.30748373588 -157.797114654633,21.3074041044138 -157.7972224718,21.3073045995756</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

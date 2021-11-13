@@ -1,0 +1,62 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.22.0-Bia?owie?a">
+  <identifier>Waahila SRA</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>Waahila SRA</title>
+  <abstract>Various reserves, preserves, parks, etc. as of September 2016. Reserve boundaries are generally based off of the County's tax map key (TMK) layer. Since boundaries from other agencies are derived from different source scales, these boundaries are modified to match the TMK layer with exceptions. 
+Note: Kaumahina State Recreation Area on Maui was digitized from USGS 7.5 minute topographic map.
+Update to Honolulu FR and Mauna Kea FR 01/20/17; Addition of Kure WS10/24/16. Update to Island of Oahu Waiahole FR and Kaneohe FR 9/30/16; Molokai FR and Kipahulu FR 7/7/16; Island of Hawaii Kohala FR, Hamakua FR, Mauna Kea FR, Honualua FR, Malama-Ki FR and Puu O Umi NAR 4/15/16; Forest Reserves (Kauai, Oahu, and Hawaii); Natural Area Reservess (Hawaii and Maui); National Wildlife Refuges (Statewide); National Parks (Hawaii and Maui); The Nature Conservancy (Hawaii and Maui). Additional updates to: Nanakuli F.R., Lualualei F.R., Honouliuli F.R. 2/18/16; Maui Motocross Track 2/8/16; Honuaula F.R., Kohala F.R. (Waimanu Sec.),Kaohe Mitigation &amp; Puu Mali Mitigation1/28/16; Kahua Coop GMA 12/16/15; Waimanalo Forest Reserve 10/2/15; Kuia NAR 9/22 /15; removed Ookala Coop GMA 12/16/15. 
+
+Centralized location of managed lands protecting natural and cultural resources of the Main Hawaiian Islands. Note: In some cases, differences in the acreage calculated by the GIS and the acreage listed in county real property records may exist. This can be especially evident in large parcels in remote areas, and is often a result of the difficulty in surveying the steep, overgrown terrain found in these natural areas.</abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>Reserves</keyword>
+    <keyword>Managed Lands</keyword>
+    <keyword>State of Hawaii</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>postal</type>
+      <address>1151 Punchbowl Street., Rm 325</address>
+      <city>Honolulu</city>
+      <administrativearea>HI</administrativearea>
+      <postalcode>96813</postalcode>
+      <country>US</country>
+    </contactAddress>
+    <name>Dwight Matsuwaki</name>
+    <organization>Division of Forestry and Wildlife, Department of Land and Natural Resources</organization>
+    <position>GIS &amp; Geodatabase Coordinator</position>
+    <voice>808-587-4173</voice>
+    <fax></fax>
+    <email>Dwight.H.Matsuwaki@Hawaii.gov</email>
+    <role>Point of contact</role>
+  </contact>
+  <links/>
+  <fees></fees>
+  <constraints type="Limitations of use">This dataset was compiled from various data sources and is updated frequently. No warranty is made that the GIS data or any subsequent update will be error free, and no waranty is made regarding the positional or thematic accuracy of the GIS data. The features are graphic representation of managed areas for planning purposes and do not represent or confer any legal rights, privileges, benefits, boundaries, or claims of any kind. DOFAW encourages GIS data users to verify the suitability of the data before use. Please report any discrepancies or errors to the point of contact.</constraints>
+  <rights>Compiled in 2002 by SOH, DLNR, DOFAW from various sources including the data provided by U.S. Fish and Wildllife Refuges, U.S. National Park Service, Division of State Parks, County parcel boundaries and The Nature Conservancy with input from State foresters and others familiar with the reserve boundaries.  The boundaries in this layer are not final; they are updated frequently. </rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys>
+      <wkt>PROJCRS["NAD83(HARN) / UTM zone 4N",BASEGEOGCRS["NAD83(HARN)",DATUM["NAD83 (High Accuracy Reference Network)",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4152]],CONVERSION["UTM zone 4N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-159,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["United States (USA) - between 162°W and 156°W onshore - Hawaii."],BBOX[19.51,-160.3,22.29,-156]],ID["EPSG",3750]]</wkt>
+      <proj4>+proj=utm +zone=4 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+      <srsid>1708</srsid>
+      <srid>3750</srid>
+      <authid>EPSG:3750</authid>
+      <description>NAD83(HARN) / UTM zone 4N</description>
+      <projectionacronym>utm</projectionacronym>
+      <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial maxz="0" miny="18.13769999999999882" minz="0" dimensions="2" maxy="29.81640000000000157" crs="EPSG:3750" maxx="-154.49260000000001014" minx="-178.33930000000000859"/>
+    <temporal>
+      <period>
+        <start>2015-07-28T10:00:00Z</start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>

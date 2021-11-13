@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="waahila_all.schema">
+      <SimpleField name="source" type="string"/>
+      <SimpleField name="crs" type="string"/>
+      <SimpleField name="provider" type="string"/>
+      <SimpleField name="file_path" type="string"/>
+      <SimpleField name="layer_name" type="string"/>
+      <SimpleField name="subset" type="string"/>
+      <SimpleField name="abstract" type="string"/>
+      <SimpleField name="attribution" type="string"/>
+    </Schema>
+    <Document id="waahila_all">
+      <name>waahila_all</name>
+      <Placemark id="waahila_all.1">
+        <name>Coastline</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waahila_all.schema">
+            <SimpleData name="source">C:/r_stuff/Coastline.kml|layername=Coastline|geometrytype=LineString</SimpleData>
+            <SimpleData name="crs">EPSG:4326</SimpleData>
+            <SimpleData name="provider">ogr</SimpleData>
+            <SimpleData name="file_path">C:/r_stuff/Coastline.kml</SimpleData>
+            <SimpleData name="layer_name">Coastline</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -158.28048227447,21.2549339363438,0
+                -157.648240603417,21.2549339363438,0
+                -157.648240603417,21.7121023927542,0
+                -158.28048227447,21.7121023927542,0
+                -158.28048227447,21.2549339363438,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="waahila_all.2">
+        <name>ping_report_204283</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waahila_all.schema">
+            <SimpleData name="source">C:/r_stuff/ping_report_204283.kml|layername=ping_report_204283|geometrytype=Point</SimpleData>
+            <SimpleData name="crs">EPSG:4326</SimpleData>
+            <SimpleData name="provider">ogr</SimpleData>
+            <SimpleData name="file_path">C:/r_stuff/ping_report_204283.kml</SimpleData>
+            <SimpleData name="layer_name">ping_report_204283</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -157.79738,21.307238,0
+                -157.793567,21.307238,0
+                -157.793567,21.3140500000001,0
+                -157.79738,21.3140500000001,0
+                -157.79738,21.307238,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="waahila_all.3">
+        <name>ping_report_2043336</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waahila_all.schema">
+            <SimpleData name="source">C:/r_stuff/ping_report_2043336.kml|layername=ping_report_2043336|geometrytype=Point</SimpleData>
+            <SimpleData name="crs">EPSG:4326</SimpleData>
+            <SimpleData name="provider">ogr</SimpleData>
+            <SimpleData name="file_path">C:/r_stuff/ping_report_2043336.kml</SimpleData>
+            <SimpleData name="layer_name">ping_report_2043336</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -157.80492,21.3026080000001,0
+                -157.79742,21.3026080000001,0
+                -157.79742,21.3075860000001,0
+                -157.80492,21.3075860000001,0
+                -157.80492,21.3026080000001,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="waahila_all.4">
+        <name>Reserves</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waahila_all.schema">
+            <SimpleData name="source">C:/r_stuff/waahila_SRA.kml|layername=Reserves|geometrytype=Polygon</SimpleData>
+            <SimpleData name="crs">EPSG:4326</SimpleData>
+            <SimpleData name="provider">ogr</SimpleData>
+            <SimpleData name="file_path">C:/r_stuff/waahila_SRA.kml</SimpleData>
+            <SimpleData name="layer_name">Reserves</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -157.80478983188,21.3023362727692,0
+                -157.795842971301,21.3023362727692,0
+                -157.795842971301,21.3081763764615,0
+                -157.80478983188,21.3081763764615,0
+                -157.80478983188,21.3023362727692,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="waahila_all.5">
+        <name>waahilaTrail</name>
+        <ExtendedData>
+          <SchemaData schemaUrl="#waahila_all.schema">
+            <SimpleData name="source">C:/r_stuff/waahila_trail.kml|layername=waahilaTrail|geometrytype=LineString</SimpleData>
+            <SimpleData name="crs">EPSG:4326</SimpleData>
+            <SimpleData name="provider">ogr</SimpleData>
+            <SimpleData name="file_path">C:/r_stuff/waahila_trail.kml</SimpleData>
+            <SimpleData name="layer_name">waahilaTrail</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -157.7972224718,21.3073045995756,0
+                -157.788149007704,21.3073045995756,0
+                -157.788149007704,21.3237659150899,0
+                -157.7972224718,21.3237659150899,0
+                -157.7972224718,21.3073045995756,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

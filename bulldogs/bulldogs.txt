@@ -1,0 +1,931 @@
+D1avid Thompson <dthompson@whis.k12.hi.us>
+Ted Spradlin <therocrates@hotmail.com>
+Nathan Honderick <nathanhonderick@whis.k12.hi.us>
+William Spradlin <williamspradlin@whis.k12.hi.us>
+Dylan Dela Cruz <dylandelacruz@whis.k12.hi.us>
+Annabella Kimitch <annabellakimitch@hotmail.com>
+florajoanthompson@gmail.com
+avajoycethompson@gmail.com
+
+
+D1avid Thompson <dthompson@whis.k12.hi.us>;Ted Spradlin <therocrates@hotmail.com>;Nathan Honderick <nathanhonderick@whis.k12.hi.us>;William Spradlin <williamspradlin@whis.k12.hi.us>;Dylan Dela Cruz <dylandelacruz@whis.k12.hi.us>;Annabella Kimitch <annabellakimitch@hotmail.com>;florajoanthompson@gmail.com;avajoycethompson@gmail.com
+
+############################
+sean.e.newsome@hawaii.gov
+alan.b.carpenter@hawaii.gov
+aaron.lowe@hawaii.gov
+############################
+
+
+David Thompson <dthompson@whis.k12.hi.us>; Ted Spradlin <therocrates@hotmail.com>; Nathan Honderick <nathanhonderick@whis.k12.hi.us>;William Spradlin <williamspradlin@whis.k12.hi.us>;Dylan Dela Cruz <dylandelacruz@whis.k12.hi.us>;Annabella Kimitch <annabellakimitch@hotmail.com>;florajoanthompson@gmail.com;florajoanthompson@gmail.com;avajoycethompson@gmail.com
+
+Nathan Honderick <nathanhonderick@whis.k12.hi.us>
+florajoanthompson@gmail.com
+avajoycethompson@gmail.com
+
+
+
+
+ HACC
+
+1.	UBER TRAIL USAGE DATA 
+TRAIL PROGRAM 
+
+2.	DLNR	DOFAW
+	watersheds ecosystems cultura lresources  recreation sustainable forest product opportunities 
+connect people to forested and wild places 
+
+disrepecting the aiana
+trailhead communities
+rescues
+overuse erosion degradation of eco-systems
+overfishing
+overharvesting
+
+social pressure affects greater change in behavior than education
+-DLNR PONO POINTS GAME THAT REWARDS GOOD BEHAVIOR
+
+	
+3. oha beneficiary service chatbot
+oha established in constitunial convention of 1978 
+semi-autonomous state agency
+10,000,000 in grnts to edu/health
+
+mana i mauli ola - strength to wellness
+
+chat bot to help communicate better 
+answer phone  
+
+4. pet pickup notification
+	airport animal quarantine station
+rabies
+ticks - deer tick wood tick
+
+front office 10' x 6' offices 
+1990 - 3800 dogs/cats
+2019 - 19000 dogs/cats
+airport anmila quarantine office 
+ewa service road between terminal one and terminal two
+
+100 animals a day between 8:30am and 5pm
+DOT has fibr
+
+we need phone systems and communications infrastructure 
+a way to get in touch with pet owners remotely so they know can sign in/out 
+
+QR codes
+no funding for an app
+
+5.  
+quicker reporting of animal sightings 
+gis data to solve problem
+
+nic hawaii hawaii internet portal manager
+HMAR hawaii marine animal response = 
+NIC HAWAII  + HMAR 
+TYLER
+
+
+HMAR hotline 
+pinpoint exact location with hotline.
+send text to number with photo + geottag info in jpg.
+
+call include important call metadata automated way to see w
+
+enable to report easily marine wildlife sightings
+	easy to find and use
+	location !
+	call quality
+	gps maps apis 
+	info accuracy
+	report unification across animal/location/species/time of day/moon cycle/who called
+
+###########################################################
+
+
+SLACK HACK 2021 CHANNEL 
+REGISTER IN THE HACK
+WILL CREATE AN ACCOUNT AND PASSWORD
+
+HACCHUI.ICS.HAWAII.EDU
+
+YES over 18
+fill out form
+parent / guardian agree to terms 
+
+dm brandon for extracredit
+
+hack hui
+
+##########
+
+hack.hacc.hawaii.gov
+slack
+
+request access from slack
+complete agreement
+parent guardian accept
+
+team captain sets up team
+links members
+provde github and devpost accounts
+
+####################
+jotonce.com
+
+slack - 
+
+4 weeks the code is open source put opensource copyright 
+on github
+
+before november 20th. all code is open source and usable by DLNR
+'code for america' code of conduct 
+
+technical scoring 
+implementation
+functional 
+
+security and privacy
+written description specific to solution 300 word max 5point include on team's dev post 5 points
+
+november 6th pitch training one person from each team come to the training. 4 points
+
+originality
+utility impact 
+presentation and delivery
+
+tech review
+2 judges
+max potential score 60
+ys/60 = yts%
+yts% must >- 60%
+max teams 25
+
+minimum viable capabilities by november 10 at 9am
+
+presentation review if pass tech review
+november 19th pitch review
+5 judtges 
+max potential score 100
+ys/100 = yps %
+
+overal results 
+total score = vts + ypt/2
+
+10 base teams 
+1 team for open challenges
+10 invites for highest scorers 
+
+
+############
+dates
+team formation
+2021-10-31 - team and accepted rules / roles
+
+challenge delcaration
+2021-11-06 - what challenge keep up-to-date
+
+2021-11-10 - technical review
+
+2021-11-17 team selection announcement
+2021-11-19 pitch rehersal 12pm 5pm
+
+2021-11-20 9pm - 2pm (eventbrite link forthcoming)
+
+############
+three workshop weekends this year:
+2021-10-30 requirements gathering 
+		meet challenge sponsors
+
+2021-11-06 mandatory  - idea to applications salesforce - create chatbot 
+
+2021-11-13  - AWS 
+
+
+hack.gov.hai
+hacc2021.slack.com
+hacc2021.devpost.com
+github.com/hacc2021
+
+HACC2021.SLACK.COM
+HACC2021.DEVPOST.COM
+GITHUB.COM/HACC2021
+
+
+#############
+
+TRUE HAWAII THRIVE THROUCH COLLABORATION WILL POSSIBLY FURTHER DEVELOP
+PCATT
+PACIFIC CENTER FOR ADVANCED TECHNOLOGY
+DIGITAL STATE SUMMIT HAPPENING IN DECEMBER
+
+
+############ 
+https://hacc2021.slack.com/join/shared_invite/zt-ss5tsan6-YgJ5W1SVT4lSXMm~PuAIyA#/shared-invite/expanded-email-form
+Slack
+See what HACC2021 is up to
+Slack is a messaging app that brings your whole team together.
+
+Thelma Alane and 68 others have already joined
+
+therocrates@hotmail.com
+ted spradlin
+
+##############
+
+
+hawaiitrails.hawaii.com
+outerspacial
+
+traffic tool integrated into outerspacial
+standalone app work with outerspacial
+
+uber media samples
+reporting function
+
+outerspacial - partnership with teams going forward... off topic
+
+
+############
+https://hacchui.ics.hawaii.edu/#/signin
+123haccHUI098_!
+
+
+
+
+
+hacchui21APP  1:27 PM
+@ted spradlin Welcome to HACC-Hui! Here are your credentials.
+Host: https://hacchui.ics.hawaii.edu/#/signin
+Username: therocrates@hotmail.com
+Password: agatewares.pejorating
+
+##############
+
+therocrates@hotmail.com
+bullDOGGY099!__
+W-H-S-BullDogs
+https://github.com/W-H-S-BullDogs/do-this
+
+###############
+
+
+
+hawaiitrails.hawaii.gov
+outerspacial hawaii
+striva is target audience appreciate at 'traffic map'
+
+uber media
+fold into outerspacial working as a partner
+
+how do we get uber data can we have access to it shown as a layer of an outerspacial trail map.
+strivaa
+
+###################
+@thelma on slack
+dm email address to 
+
+
+
+https://geojson.in/
+https://www.w3schools.com/python/default.asp
+https://geoportal.hawaii.gov/datasets/reserves/explore?filters=eyJUWVBFIjpbImZyIiwid3MiLCJ0bmMiLCJuYXIiLCJzcCIsImZyLWdtIiwiZnItbWwiLCJmci1ucCIsImZyLXAiLCJmci1zbSIsImZyLXNyIiwiZ21hIiwiaHAiLCJuaHAiLCJuaHMiLCJvaGEiLCJzaHAiLCJzaHMiLCJtaWwiLCJtbGNkIiwibnBzIiwicHMiLCJucCIsIm53ciIsInNwciIsInNtIiwic3JhIiwic3JwIiwic3NzIiwic3ciLCJzd3AiLCJzeHAiLCJ4cyIsInh4eCIsIndyIiwiciIsInAiXSwiVHlwZV9EZWZpbiI6WyJGb3Jlc3QgUmVzZXJ2ZSIsIldpbGRsaWZlIFNhbmN0dWFyeSIsIlRoZSBOYXR1cmUgQ29uc2VydmFuY3kgUHJlc2VydmUiLCJOYXR1cmFsIEFyZWEgUmVzZXJ2ZSIsIlN0YXRlIFBhcmsiLCJGb3Jlc3QgUmVzZXJ2ZSAvIE5hdGlvbmFsIEhpc3RvcmljYWwgUGFyayIsIkZvcmVzdCBSZXNlcnZlL01pbGl0YXJ5IEZhY2lsaXR5IiwiRm9yZXN0IFJlc2VydmUvR2FtZSBNYW5hZ2VtZW50IEFyZWEiLCJGb3Jlc3QgUmVzZXJ2ZS9TdGF0ZSBNb251bWVudCIsIkZvcmVzdCBSZXNlcnZlL1N0YXRlIFJlY3JlYXRpb24gQXJlYSIsIkZvcmVzdCBSZXNlcnZlL1ByZXNlcnZlIiwiTWFyaW5lIExpZmUgQ29uc2VydmF0aW9uIERpc3RyaWN0IiwiTmF0aW9uYWwgV2lsZGxpZmUgUmVmdWdlIiwiT2ZmaWNlIG9mIEhhd2FpaWFuIEFmZmFpcnMiLCJPdGhlciBVbml0cyBNYW5hZ2VkIGJ5IERPRkFXIiwiSGlzdG9yaWMgUHJlc3JldmUiLCJOYXRpb25hbCBIaXN0b3JpYyBTaXRlIiwiTmF0aW9uYWwgSGlzdG9yaWNhbCBQYXJrIiwiTmF0aW9uYWwgTWVtb3JpYWwiLCJOYXRpb25hbCBQYXJrIiwiT3RoZXIiLCJTdGF0ZSBQYXJrIC0gT3RoZXIiLCJTdGF0ZSBIaXN0b3JpYyBTaXRlIiwiU3RhdGUgSGlzdG9yaWNhbCBQYXJrIiwiU3RhdGUgTW9udW1lbnQiLCJTdGF0ZSBSZWNyZWF0aW9uIEFyZWEiLCJTdGF0ZSBSZWNyZWF0aW9uIFBpZXIiLCJTdGF0ZSBQYXJrIFJlc2VydmUiLCJTdGF0ZSBTY2VuaWMgU2hvcmVsaW5lIiwiU3RhdGUgV2F5c2lkZSIsIlN0YXRlIFdpbGRlcm5lc3MgUGFyayIsIlBsYW50IFNhbmN0dWFyeSIsIlZhcmlvdXMgT3RoZXIgU2FuY3R1YXJ5IiwiR2FtZSBNYW5hZ2VtZW50IEFyZWEiLCJQcml2YXRlIFByZXNlcnZlIiwiUmVzZXJ2ZSIsIldldGxhbmRzIFJlZnVnZSIsIk1pbGl0YXJ5Il0sIklzbGFuZCI6WyJPYWh1Il0sIkdJU19BY3JlIjpbMC4xLDM2MDUyNy42Mzc0NTFdfQ%3D%3D&location=21.385968%2C-157.644009%2C10.00
+https://files.hawaii.gov/dbedt/op/gis/data/reserves_summary.pdf
+https://geodata.hawaii.gov/arcgis/rest/services/Terrestrial/MapServer/34
+
+
+
+
+VISUAL STUDIO CODE
+this will be our IDE (integrated development environment)
+install visual studio code from here:
+	https://code.visualstudio.com/
+	select new file then at top left 
+		select language - PYTHON
+now you will be asked to install python from within visual studio code
+
+GET PYTHON
+	https://www.microsoft.com/en-us/p/python-39/9p7qfqmjrfp7?
+	this puts a file, VSCodeUserSetup-x64-1.61.2.exe in your downloads be sure to click through the warnings from your browser/firewall about exe files
+	don't install as administrator
+		leave all boxes checked
+		select add desktop icon if you like
+	
+	select your python 'interpreter' this is actually going to be python.
+	you may need to follow prompts and select one otherwise it will default to your copy of python just installed
+
+			
+now we need to install some python modules from within the python CLI (command line interface)
+open python and you will see a generic prompt.  we will use a thing called 'pip' from a windows command prompt
+open CMD and then we will be firing off some 
+python - pip commands to install stuff
+
+python -m pip install pandas
+python -m pip install inquirer
+python -m pip install requests
+python -m pip install geojson
+python -m pip install geopandas
+
+
+https://stackoverflow.com/questions/43971259/how-to-draw-polygons-with-python
+
+###########################
+
+x_points <- c(-155.700606145152,-155.700315207736,-155.700157124912,-155.700099564227,-155.699772373017,-155.699743715231,-155.699935717782,-155.700245345413,-155.700361713931,-155.700553734208,-155.700681942071,-155.700716282045,-155.700693485261,-155.700606145152)
+y_points <- c(20.1915896967345,20.1917872771772,20.191861010509,20.1919276147,20.1925982974595,20.1927105633063,20.192614908978,20.1924943877199,20.1924153590387,20.1920354192689,20.1918483189619,20.1917496989164,20.1916409768762,20.1915896967345)
+
+
+x_points <- c(-155.700606145152,-155.700315207736,-155.700157124912,-155.700099564227,-155.699772373017,-155.699743715231,-155.699935717782,-155.700245345413,-155.700361713931,-155.700553734208,-155.700681942071,-155.700716282045,-155.700693485261,-155.700606145152)
+y_points <- c(20.1915896967345,20.1917872771772,20.191861010509,20.1919276147,20.1925982974595,20.1927105633063,20.192614908978,20.1924943877199,20.1924153590387,20.1920354192689,20.1918483189619,20.1917496989164,20.1916409768762,20.1915896967345)
+
+plot(1, 1, col = "white", xlab = "X", ylab = "Y")      
+polygon(x = x_points, y = y_points,col = "#1b98e0")
+
+
+plot(1, 1, col = "white", xlab = "X", ylab = "Y")
+polygon(x = c(0.7, 1.3, 1.2, 0.8), y = c(0.6, 0.8, 1.4, 1),col = "#1b98e0")
+
+
+
+
+c(-155.700606145152,20.1915896967345),
+c(-155.700315207736,20.1917872771772),
+c(-155.700157124912,20.191861010509),
+c(-155.700099564227,20.1919276147),
+c(-155.699772373017,20.1925982974595),
+c(-155.699743715231,20.1927105633063),
+c(-155.699935717782,20.192614908978),
+c(-155.700245345413,20.1924943877199),
+c(-155.700361713931,20.1924153590387),
+c(-155.700553734208,20.1920354192689),
+c(-155.700681942071,20.1918483189619),
+c(-155.700716282045,20.1917496989164),
+c(-155.700693485261,20.1916409768762),
+c(-155.700606145152,20.1915896967345)
+
+
+
+
+
+https://opendata.arcgis.com/api/v3/datasets/6c4ad137c0e54d398712fd2e3e68e50e_1/downloads/data?format=kml&spatialRefId=4326
+
+R packages are going here
+C:\Users\therocrates\AppData\Local\Temp\RtmpOcsptT\downloaded_packages
+C:\Users\therocrates\AppData\Local\Temp\RtmpOcsptT\downloaded_packages
+
+
+
+getwd()	#-----	[1] "C:/Users/therocrates/Documents"
+#-----	make an easy directory off the root dir so you can find/read/write files/output/logs easily
+setwd('C:/r_stuff')
+getwd()	#----	[1] "C:/r_stuff"
+
+library() 
+#-----	Packages in library ‘C:/Users/therocrates/Documents/R/win-library/4.1’:
+
+Packages in library ‘C:/Program Files/R/R-4.1.1/library’:s/R/win-library/4.1’:
+
+aqp                       Algorithms for Quantitative Pedology
+classInt                  Choose Univariate Class Intervals
+cpp11                     A C++11 Interface for R's C Interface
+data.table                Extension of `data.frame`
+DBI                       R Database Interface
+e1071                     Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien
+FNN                       Fast Nearest Neighbor Search Algorithms and Applications
+glue                      Interpreted String Literals
+gstat                     Spatial and Spatio-Temporal Geostatistical Modelling, Prediction and Simulation
+intervals                 Tools for Working with Points and Intervals
+magrittr                  A Forward-Pipe Operator for R
+plyr                      Tools for Splitting, Applying and Combining Data
+proxy                     Distance and Similarity Measures
+raster                    Geographic Data Analysis and Modeling
+Rcpp                      Seamless R and C++ Integration
+rgdal                     Bindings for the 'Geospatial' Data Abstraction Library
+s2                        Spherical Geometry Operators Using the S2 Geometry Library
+sf                        Simple Features for R
+sp                        Classes and Methods for Spatial Data
+spacetime                 Classes and Methods for Spatio-Temporal Data
+stringi                   Character String Processing Facilities
+stringr                   Simple, Consistent Wrappers for Common String Operations
+terra                     Spatial Data Analysis
+units                     Measurement Units for R Vectors
+wk                        Lightweight Well-Known Geometry Parsing
+xts                       eXtensible Time Series
+zoo                       S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations)
+
+
+
+##############################################################
+
+#-----	ccg <- st_read("https://opendata.arcgis.com/api/v3/datasets/6c4ad137c0e54d398712fd2e3e68e50e_1/downloads/data?format=kml&spatialRefId=4326")
+
+
+library(sf)
+ccg <- st_read('C:/r_stuff/bullddog_kml.kml')
+plot(ccg[1])
+
+st_bbox(ccg[1])
+      xmin       ymin       xmax       ymax 
+-158.21563   21.01117 -156.63775   21.57605 
+
+st_bbox(xmin=-158.21563, ymin=21.11117, xmax=-157.63775, ymax = 21.47605 
+     xmin 
+-158.2156 
+
+
+#-----	Reading layer `Reserves' from data source `C:\r_stuff\bullddog_kml.kml' using driver `KML'
+#-----	Simple feature collection with 6 features and 2 fields
+#-----	Geometry type: MULTIPOLYGON
+#-----	Dimension:     XY
+#-----	Bounding box:  xmin: -158.2156 ymin: 21.01117 xmax: -156.6378 ymax: 21.57605
+#-----	Geodetic CRS:  WGS 84
+
+
+
+#-----	Polygons
+x <- c(0.66, 0.26, 0.90, 0.06, 0.94, 0.37)
+y <- c(0.99, 0.20, 0.38, 0.77, 0.71, 0.17)
+xnew <- x[order(Arg(scale(x) + scale(y) * 1i))]
+ynew <- y[order(Arg(scale(x) + scale(y) * 1i))]
+
+plot(xnew, ynew, type = "n")
+polygon(xnew ,ynew)
+
+text(x, y, 1:length(x))
+
+
+###############################
+library(ggplot2)
+library(sf)
+library(rnaturalearth)
+
+worldmap <- ne_countries(scale = 'medium', type = 'map_units', returnclass = 'sf')
+head(worldmap[c('name', 'continent')])
+head(worldmap[])
+ggplot() + geom_sf(data = worldmap) + theme_bw()
+
+
+USA <- worldmap[worldmap$name == 'United States',]
+ggplot() + geom_sf(data = USA) + theme_bw()
+
+europe <- worldmap[worldmap$continent == 'Europe',]
+ggplot() + geom_sf(data = europe) + theme_bw()
+
+europe_cropped <- st_crop(worldmap, xmin = -20, xmax = 45, ymin = 30, ymax = 73)
+ggplot() + geom_sf(data = europe_cropped) + theme_bw() + coord_sf(expand = FALSE)
+
+sf::sf_use_s2(FALSE)	#---- turn off strict boundry/error checking...might hurt us later but not sure yet.
+hawaii <- st_crop(worldmap, xmin = -161, xmax = -154, ymin = 18, ymax = 23, check=F)
+ggplot() + geom_sf(data = hawaii) + theme_bw()
+
+#----- or this way without cropping the set but cropping the image
+ggplot() + geom_sf(data = worldmap) + coord_sf(xlim = c(-154, -161), ylim = c(23, 18)) +theme_bw()
+
+
+#-----	This is on what we need to draw our polygons!!
+oahu <- st_crop(worldmap, xmin = -158.5, xmax = -157.5, ymin = 21, ymax = 22)
+ggplot() + geom_sf(data = oahu) + theme_bw()
+
+########### kml 
+fname = 'C:/r_stuff/bd_kml_good.kml'
+library(sf)
+stuff <- st_read(fname)
+plot(stuff[1])
+
+ggplot() + geom_sf(data = hawaii) + theme_bw() + plot(stuff[1])
+
+
+newthing = append(stuff$geometry,oahu$geometry)
+plot(newthing)
+
+######################
+this is oahu
+i need to find a set that has this in it
+######################
+
+
+TOP LEFT
+21.779395, -158.376978
+
+TOP RIGHT
+21.779395, -157.578004
+
+BOTTOM LEFT
+21.195167, -158.376978
+
+BOTTOM RIGHT
+21.195167, -157.578004
+
+##############
+PACIFIC OCEAN
+30,19
+-103, -236
+
+
+#######################################
+
+https://devpost.com/software/402019/joins/5aLMLbGCVZR9L88f5WVEEA
+
+
+
+########################
+library(ggplot2)
+library(sf)
+library(rnaturalearth)
+
+worldmap <- ne_countries(scale = 'medium', type = 'map_units', returnclass = 'sf')
+head(worldmap[c('name', 'continent')])
+head(worldmap[])
+ggplot() + geom_sf(data = worldmap) + theme_bw()
+
+
+USA <- worldmap[worldmap$name == 'United States',]
+ggplot() + geom_sf(data = USA) + theme_bw()
+
+europe <- worldmap[worldmap$continent == 'Europe',]
+ggplot() + geom_sf(data = europe) + theme_bw()
+
+europe_cropped <- st_crop(worldmap, xmin = -20, xmax = 45, ymin = 30, ymax = 73)
+ggplot() + geom_sf(data = europe_cropped) + theme_bw() + coord_sf(expand = FALSE)
+
+sf::sf_use_s2(FALSE)	#---- turn off strict boundry/error checking...might hurt us later but not sure yet.
+hawaii <- st_crop(worldmap, xmin = -161, xmax = -154, ymin = 18, ymax = 23, check=F)
+ggplot() + geom_sf(data = hawaii) + theme_bw()
+
+#----- or this way without cropping the set but cropping the image
+ggplot() + geom_sf(data = worldmap) + coord_sf(xlim = c(-154, -161), ylim = c(23, 18)) +theme_bw()
+
+
+#-----	This is on what we need to draw our polygons!!
+oahu <- st_crop(worldmap, xmin=-158.5,xmax=-157.5,ymin=21,ymax=22)
+ggplot() + geom_sf(data = oahu) + theme_bw()
+
+
+
+#####################
+#================
+# import packages
+#================
+library(tidyverse)
+library(sf)
+library(ggspatial)
+library(rnaturalearth)
+library(tidygeocoder)
+library(maps)
+library(ggrepel)
+
+
+#=============
+# GET MAP DATA
+#=============
+world_map_data <- ne_countries(scale = "medium", returnclass = "sf")
+state_map_data <- map('state', fill = TRUE, plot = FALSE) %>% st_as_sf()
+
+class(world_map_data)
+class(state_map_data)
+
+
+
+#------------------
+# CREATE SIMPLE MAP
+#------------------
+state_map_data %>% 
+  filter(ID == 'texas') %>% 
+  ggplot() +
+    geom_sf()
+
+
+# DRAFT: Map of Texas Coast
+
+ggplot() +
+  geom_sf(data = world_map_data) +
+  geom_sf(data = state_map_data) +
+  coord_sf(xlim = c(-100, -91), ylim = c(25,33))
+  
+# CREATE LIST OF PORTS
+portlist = c('Port Brownsville, Texas'
+            ,'Port Isabel, Texas'
+            ,'Port Mansfield, Texas'
+            ,'Port Corpus Christi, Texas'
+            ,'Port Lavaca, Texas'
+            ,'Port Freeport, Texas'
+            ,'Texas City, Texas'
+            ,'Port Galveston, Texas'
+            ,'Port Houston, Texas'
+            ,'Port Sabine Pass, Texas'
+            ,'Port Arthur, Texas'
+            ,'Port Beaumont, Texas'
+            ,'Port of Orange, Texas'
+            )
+
+
+#geo_osm('Port of Texas City, Texas')
+
+# CREATE TIBBLE
+port_data = tibble(location = portlist)
+
+# CREATE 'BRIEF' NAME
+port_data %>% 
+  mutate(location_brief = str_replace(location, ', Texas', '')) ->
+  port_data
+
+# CREATE EMPTY LAT, LONG VARIABLES
+port_data %>% 
+  mutate(lat = NA
+         ,long = NA
+         ) ->
+  port_data
+  
+
+#inspect
+head(port_data)
+
+
+#------------------
+# GEOCODE LOCATIONS
+#------------------
+for(i in 1:nrow(port_data)){
+  coordinates = geo_osm(port_data$location[i])
+  port_data$long[i] = coordinates$long
+  port_data$lat[i] = coordinates$lat
+}
+
+#inspect
+head(port_data)
+
+ggplot() +
+  geom_sf(data = world_map_data) +
+  geom_sf(data = state_map_data) +
+  geom_point(data = port_data, aes(x = long, y = lat), color = 'red') +
+  coord_sf(xlim = c(-100, -92), ylim = c(25,33))
+
+
+mytheme <- theme(text = element_text(family = 'Avenir')
+                 ,panel.grid.major = element_line(color = '#cccccc' 
+                                                  ,linetype = 'dashed'
+                                                  ,size = .3
+                                                  )
+                 ,panel.background = element_rect(fill = 'aliceblue')
+                 ,plot.title = element_text(size = 32)
+                 ,plot.subtitle = element_text(size = 14)
+                 ,axis.title = element_blank()
+                 ,axis.text = element_text(size = 10)
+                 )
+
+land_color <- c('antiquewhite1')
+
+base_plot <- ggplot() +
+  geom_sf(data = world_map_data, fill = land_color, size = .4) +
+  geom_sf(data = state_map_data, fill = NA, size = .4) +
+  geom_point(data = port_data, aes(x = long, y = lat), size = 4, color = 'red', alpha = .15) +
+  geom_point(data = port_data, aes(x = long, y = lat), size  = 4, shape = 1,  color = 'red') +
+  coord_sf(xlim = c(-100, -90), ylim = c(25,33)) +
+  mytheme
+
+
+#---------
+# SHOW MAP
+#---------
+print(base_plot)
+
+######################################
+ world.cities[world.cities$country.etc=='USA',]
+Honolulu         USA  386345 21.32 -157.80
+
+
+
+<Placemark>
+	<name>ISLAND OF OAHU</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData>
+		<SchemaData schemaUrl="#Reserves">
+				<SimpleData name="OBJECTID">9999</SimpleData>
+				<SimpleData name="TYPE">WHS</SimpleData>
+				<SimpleData name="Type_Defin">STATE OF HAWAII</SimpleData>
+				<SimpleData name="MANAGEDBY">DAKINE</SimpleData>
+				<SimpleData name="Island">Oahu</SimpleData>
+				<SimpleData name="GIS_Acre">563.832260869</SimpleData>
+				<SimpleData name="LinkToWebP"></SimpleData>
+				<SimpleData name="LinkToAdmi"></SimpleData>
+				<SimpleData name="LinkToAd_1"></SimpleData>
+				<SimpleData name="LinkToAd_2"></SimpleData>
+				<SimpleData name="LinkToAd_3"></SimpleData>
+				<SimpleData name="Shape_Length"></SimpleData>
+				<SimpleData name="Shape_Area"></SimpleData>
+		</SchemaData>
+	</ExtendedData>
+	<Polygon><outerBoundaryIs><LinearRing><coordinates>
+
+-157.765 21.45093, -157.7209 21.45771, -157.7055 21.37808, -157.6542 21.33394, -157.6354 21.30762, -157.6909 21.27974, -157.7988 21.2686, -157.8493 21.29082, -157.9018 21.34058, -157.9584 21.3269, -157.9683 21.36689, -157.9784 21.37852, -158.0173 21.36772, -157.981 21.31611, -158.0792 21.31226, -158.1104 21.3186, -158.1378 21.37715, -158.2391 21.48936, -158.2387 21.53306, -158.2731 21.58525, -158.1231 21.60024, -158.0204 21.6918, -157.9625 21.70137, -157.8515 21.55337, -157.8543 21.51191, -157.8296 21.47144, -157.7994 21.45664, -157.765 21.45093
+
+	</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</Placemark>
+
+
+
+
+#################
+library(sf)
+
+fname = 'C:/r_stuff/bullddog_kml.kml'
+bulddog_kml <- st_read(fname)
+plot(bulddog_kml[1])
+
+##################
+#####################################
+library(ggplot2)
+
+library(sf)
+library(rnaturalearth)
+
+fname_parks = 'C:/r_stuff/bd_kml_good.kml'
+fname_trails = 'C:/r_stuff/trails_kml.kml'
+fname_oahu_perimeter = 'C:/r_stuff/Coastline.kml'
+parks <- st_read(fname_parks)
+trails <- st_read(fname_trails)
+oahu_perimeter <- st_read(fname_oahu_perimeter)
+newthing = append(oahu_perimeter$geometry,parks$geometry)
+newthing = append(newthing,trails$geometry)
+plot(newthing)
+
+#-----	https://opendata.hawaii.gov/dataset/coastline/resource/e2e39827-7209-432b-b8a4-372ff94d6259
+########################
+
+library(sf)
+
+fname_parks = 'C:/r_stuff/bd_kml_good.kml'
+fname_trails = 'C:/r_stuff/trails_kml.kml'
+fname_oahu_perimeter = 'C:/r_stuff/Coastline.kml'
+parks <- st_read(fname_parks)
+trails <- st_read(fname_trails)
+oahu_perimeter <- st_read(fname_oahu_perimeter)
+newthing = append(oahu_perimeter$geometry,trails$geometry)
+newthing = append(newthing,parks$geometry)
+plot(newthing)
+
+
+
+
+
+
+fname = 'C:/r_stuff/bd_kml_good.kml'
+library(sf)
+stuff <- st_read(fname)
+plot(stuff[1])
+
+newthing = append(stuff$geometry,oahu$geometry)
+plot(newthing)
+
+library(ggplot2)
+library(sf)
+library(rnaturalearth)
+sf::sf_use_s2(FALSE)	#---- turn off strict boundry/error checking...might hurt us later but not sure yet.
+
+worldmap <- ne_countries(scale = 'medium', type = 'map_units', returnclass = 'sf')
+USA <- worldmap[worldmap$name == 'United States',]
+europe <- worldmap[worldmap$continent == 'Europe',]
+europe_cropped <- st_crop(worldmap, xmin = -20, xmax = 45, ymin = 30, ymax = 73)
+hawaii <- st_crop(worldmap, xmin = -161, xmax = -154, ymin = 18, ymax = 23, check=F)
+
+############# have fun with xlim and ylim to zoom in on the worldmap ###############################
+############# use this cool link to get xlim and ylim                ###############################
+#-----  https://www.findlatitudeandlongitude.com/
+#-----  ggplot() + geom_sf(data = worldmap) + theme_bw()
+#-----  ggplot() + geom_sf(data = USA) + theme_bw()
+#-----  ggplot() + geom_sf(data = europe) + theme_bw()
+#-----  ggplot() + geom_sf(data = europe_cropped) + theme_bw() + coord_sf(expand = FALSE)
+#-----  ggplot() + geom_sf(data = hawaii) + theme_bw()
+#-----  This way without cropping the set but cropping the image
+#-----  ggplot() + geom_sf(data = worldmap) + coord_sf(xlim = c(-154, -161), ylim = c(23, 18)) +theme_bw()
+############# have fun ###############################
+
+#-----	This is on what we need to draw our polygons!!
+oahu <- st_crop(worldmap, xmin = -158.5, xmax = -157.5, ymin = 21, ymax = 22)
+ggplot() + geom_sf(data = oahu) + theme_bw()
+
+############################################
+# import some kml we pulled off https://opendata.arcgis.com/api/v3/datasets/6c4ad137c0e54d398712fd2e3e68e50e_1/downloads/data?format=kml&spatialRefId=4326 
+# we manually edited our kml file for simplicity 
+############################################
+fname = 'C:/r_stuff/bd_kml_good.kml'
+trails_fname = 'C:/r_stuff/trails_kml.kml'
+
+stuff <- st_read(fname)
+trails <- st_read(trails_fname)
+plot(stuff[1]) + plot(trails[1]
+
+newthing = append(stuff$geometry,oahu$geometry)
+plot(newthing)
+
+###################
+library(sf)
+library(leaflet)
+library(rgdal)
+
+fname_parks = 'C:/r_stuff/bd_kml_good.kml'
+fname_trails = 'C:/r_stuff/trails_kml.kml'
+fname_oahu_perimeter = 'C:/r_stuff/Coastline.kml'
+
+parks <- st_read(fname_parks)
+trails <- st_read(fname_trails)
+oahu_perimeter <- st_read(fname_oahu_perimeter)
+
+bbox <- st_bbox(parks) %>% as.vector
+map <- leaflet() %>% 
+  addTiles() %>% 
+  fitBounds(bbox[1], bbox[2], bbox[3], bbox[4]) 
+for( i in 1:length(parks$geometry)){
+	map <- map %>% addPolygons(lng=parks$geometry[[i]][[1]][,1],lat=parks$geometry[[i]][[1]][,2])
+}
+
+for( i in 1:length(trails$geometry)){
+	map <- map %>% addPolylines(lng=trails$geometry[[i]][[1]][,1],lat=trails$geometry[[i]][[1]][,2],color = "red")
+}
+map
+
+%>% 
+
+  addPolygons(lng=parks$geometry[[1]][[1]][,1],lat=parks$geometry[[1]][[1]][,2])
+
+thispolygon[[1]][[1]][[1]][,1]
+
+
+
+leaflet(oahu_perimeter)%>%
+	  addTiles()
+
+%>% 
+
+	addPolygons(color = "#444444",
+		weight = 1,
+		smoothFactor = 0.5,
+		opacity = 1.0,
+		fillOpacity = 0.5,
+		highlightOptions = highlightOptions(color = "white", weight = 2,bringToFront = TRUE)
+	) 
+###################################
+
+
+library(sf)
+library(leaflet)
+library(rgdal)
+library(ggplot2)
+library(sf)
+library(rnaturalearth)
+sf::sf_use_s2(FALSE)	
+
+fname_parks = 'C:/r_stuff/waahila_SRA.kml'
+fname_trails = 'C:/r_stuff/waahila_trail.kml'
+fname_oahu_perimeter = 'C:/r_stuff/Coastline.kml'
+
+parks <- st_read(fname_parks)
+trails <- st_read(fname_trails)
+oahu_perimeter <- st_read(fname_oahu_perimeter)
+pingdata_parking_lot <-read.table(file='C:/r_stuff/ping_2043336_clean.txt',header=FALSE,sep='\t',
+	col.names=c('epochtime','coordinates'))
+pingdata_trail <-read.table(file='C:/r_stuff/ping_204283_clean.txt',header=FALSE,sep='\t',
+	col.names=c('epochtime','coordinates'))
+
+coordinates <- pingdata_trail[order(pingdata_trail$epochtime),]$coordinates
+datetimepoch <- as.numeric(pingdata_trail[order(pingdata_trail$epochtime),]$epochtime)
+data_datetime <- as.POSIXct(datetimepoch,origin='1970-01-01')
+
+dots_to_plot <- data.frame(matrix(ncol=3,nrow=length(coordinates)))
+colnames(dots_to_plot) <- c('data_datetime','datetimepoch','coordinates')
+
+dots_to_plot$data_datetime=data_datetime
+dots_to_plot$datetimepoch=datetimepoch
+dots_to_plot$coordinates=coordinates
+
+
+bbox <- st_bbox(parks) %>% as.vector
+map <- leaflet() %>% 
+  addTiles() %>% 
+  fitBounds(bbox[1], bbox[2], bbox[3], bbox[4]) 
+for( i in 1:length(parks$geometry)){
+	map <- map %>% addPolygons(lng=parks$geometry[[i]][[1]][,1],lat=parks$geometry[[i]][[1]][,2])
+}
+for( i in 1:length(trails$geometry)){
+	map <- map %>% addPolylines(lng=trails$geometry[[i]][[1]][,1],lat=trails$geometry[[i]][[1]][,2],color = "red")
+}
+map
+
+library(xml2)
+library(tidyr)
+library(tidyverse)
+pingdata_parking_lot <-'C:/r_stuff/ping_report_2043336.kml'
+pingdata_trail <-'C:/r_stuff/ping_report_204283.kml'
+
+stuff <- read_xml(pingdata_parking_lot)
+records <- xml_find_all(stuff)
+
+
+xml_df = tibble::as_tibble(stuff) %>%
+  unnest_longer(Placemark)
+
+
+###############
+library(sf)
+
+o
+####
